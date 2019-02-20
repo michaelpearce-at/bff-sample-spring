@@ -1,4 +1,4 @@
-package au.com.airtasker.bffspring
+package au.com.airtasker.bffspring.exceptions
 
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.ControllerAdvice
